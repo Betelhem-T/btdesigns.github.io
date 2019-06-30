@@ -47,12 +47,10 @@ header a{
    }
 
 header nav ul li ul {
-    display:none;
+    display:block;
     background-color: white;
     border-radius: 5px;
 }
-header nav ul li:hover ul{
-    display: block;}
   
 
 header nav ul li ul li a{
